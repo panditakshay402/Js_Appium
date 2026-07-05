@@ -1,0 +1,20 @@
+{
+  "name": "js_appium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "appium": "^3.5.2",
+    "chai": "^6.2.2",
+    "dotenv": "^17.4.2",
+    "mocha": "^11.7.6",
+    "webdriverio": "^9.29.1"
+  }
+}
