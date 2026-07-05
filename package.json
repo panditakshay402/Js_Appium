@@ -16,5 +16,8 @@
     "dotenv": "^17.4.2",
     "mocha": "^11.7.6",
     "webdriverio": "^9.29.1"
+  },
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^8.1.0"
   }
 }
