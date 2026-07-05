@@ -1,7 +1,24 @@
-
 # 📱 Appium + JavaScript Complete Setup Guide (Enhanced)
 
 > Stack: Appium + JavaScript + WebdriverIO + Android Emulator + VS Code
+
+------------------------------------------------------------------------
+
+# 1. Prerequisites
+
+  Software              Why Required
+  --------------------- ------------------------------
+  Node.js               Runs JavaScript and npm
+  npm                   Installs packages
+  VS Code               IDE
+  Android Studio        SDK + Emulator
+  Android SDK           Android libraries
+  Platform Tools        Contains adb.exe
+  Appium Server         Executes automation commands
+  UiAutomator2 Driver   Android automation driver
+  Appium Inspector      Inspect mobile elements
+
+------------------------------------------------------------------------
 
 ## 1. Prerequisites
 - Node.js
