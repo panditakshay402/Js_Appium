@@ -1,4 +1,4 @@
-# 📱 Appium + JavaScript Complete Setup Guide (VS Code)
+# 📱 Appium + JavaScript Complete Setup Guide (VS Code).
 
 > Author: Personal Learning Notes\
 > Stack: Appium + JavaScript + VS Code + Android Studio
